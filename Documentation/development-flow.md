@@ -187,7 +187,7 @@ git fetch --all
 
 # Create a new branch that is based off upstream master.  Give it a simple, but descriptive name.
 # Generally it will be two to three words separated by dashes and without numbers.
-git checkout -b feature-name upstream/master
+git checkout -b feature-name
 ```
 
 Now you are ready to make the changes and commit to your branch.
